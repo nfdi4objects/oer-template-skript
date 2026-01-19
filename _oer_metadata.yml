@@ -25,8 +25,8 @@ keywords:
   - Stichwort 2
 
 # Technische Metadaten
-site-url: &site https://kacebe.github.io/n4o_oer-skript-template/template.html
-repo-url: &repo https://github.com/kacebe/n4o_oer-skript-template/
+site-url: &site https://nfdi4objects.github.io/oer-template-skript/
+repo-url: &repo https://github.com/nfdi4objects/oer-template-skript
 doi: XXXXXXX.XXXXXXX
 
 # Vorgaben für den Appendix "Zitat"
@@ -56,5 +56,5 @@ beispiel-key: beispiel-value
 # Shortcuts für Verweise auf verlinkte OER-Bausteine für die Nutzung im Text. Beispiel:
 # url_n4o-oer_metadaten: https://gitlab.rlp.net/n4o/oer-bausteine/n4o-oer-skript-einfuehrung-metadaten'
 # Referenz  im Text: {{< meta url_n4o-oer_metadaten >}}
-template-repo-url: https://github.com/nfdi4objects/n4o_oer-skript-template
-template-doku-url: https://nfdi4objects.github.io/n4o-oer/
+template-repo-url: https://github.com/nfdi4objects/oer-template-skript
+template-doku-url: https://kacebe.github.io/n4o_oer-template-dokumentation/templates.html#skript-template

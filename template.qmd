@@ -29,7 +29,7 @@ Herzlichen Glückwunsch 🎉 – Sie haben erfolgreich ein OER-Skript aus dem Te
 
 Übernehmen Sie folgende Gliederung oder ersetzen Sie diese mit Ihren eigenen Inhalten. Viele Hinweise zu dem Gliederungsvorschlag sind in den Kommentaren in dieser .qmd-Datei hinterlegt.
 
-Warum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in auf der [Website zu ###]().
+Warum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in in der [Dokumentation zu den OER-Templates von NFDI4Objekts]({{< meta template-doku-url >}}).
 
 
 ## Einleitung
