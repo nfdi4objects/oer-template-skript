@@ -1,0 +1,127 @@
+---
+title: "OER-Skript"
+subtitle: "Untertitel des OER-Skripts"
+lang: de
+date: 1900-01-01
+date-format: "DD.MM.YYYY"
+date-modified: last-modified
+metadata-files:
+  - _layout.yml
+  - _autor_innen.yml
+  - _oer_metadata.yml
+# Optional
+bibliography: bibliographie.bib
+toc: true
+toc-expand: true
+toc-title: |
+  ![](/img/placeholder.png)
+toc-location: right
+number-sections: true # Auf false setzen, wenn keine automatische Abschnittsnummerierung gewünscht
+lightbox: true
+crossref: 
+  lof-title: "Liste der Abbildungen"
+# Für CI-build in github
+execute:
+  freeze: auto
+---
+
+Herzlichen Glückwunsch 🎉 – Sie haben erfolgreich ein OER-Skript aus dem Template generiert!
+
+Übernehmen Sie folgende Gliederung oder ersetzen Sie diese mit Ihren eigenen Inhalten. Viele Hinweise zu dem Gliederungsvorschlag sind in den Kommentaren in dieser .qmd-Datei hinterlegt.
+
+Warum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in auf der [Website zu ###]().
+
+
+## Einleitung
+
+<!-- Holen Sie die Lernenden in diesem Absatz ab. Stellen Sie in wenigen Sätzen, mit Beispielen und Fragen das Thema des Bausteins vor. -->
+
+### Lernziele {.kolophon .unnumbered .unlisted}
+
+<!-- Idealerweise beziehen sie sich in dieser Aufzählung auf die Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) für die Zielgruppen Studierende, PhDs und Data Stewards.^[Petersen, B., Engelhardt, C., Hörner, T., Jacob, J., Kvetnaya, T., Mühlichen, A., Schranzhofer, H., Schulz, S., Slowig, B., Trautwein-Bruns, U., Voigt, A., & Wiljes, C. (2023). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) für die Zielgruppen Studierende, PhDs und Data Stewards. Zenodo. [https://doi.org/10.5281/zenodo.8010617](https://doi.org/10.5281/zenodo.8010617)] -->
+
+In diesem Skript lernen sie [@petersen2023]:
+
+- Kompetenz #.#
+
+### Vorwissen {.kolophon .unnumbered .unlisted}
+
+Für das Verständnis dieses Skripts werden vorausgesetzt:
+
+- Voraussetzung
+
+<!-- Versuchen sie so detailliert wie möglich die Voraussetzungen für das Verständnis des Bausteins aufzuzählen. Geben sie Hinweise, wo die Lernenden entsprechende/s Kompetenzen/Wissen erwerben können. Damit sind nicht nur Kenntnisse im Forschunsdatenmanagement gemeint sondern auch Grund-Kompetenzen aus der Data Literacy und methodisch-praktische Kompetenzen gemeint. -->
+
+### Bezug zum Forschungsdatenlebenszyklus {.kolophon .unnumbered .unlisted}
+
+<!-- Erläutern sie kurz, welche Rolle das Thema im Bezug auf die Phasen im Forschungsdatenzyklus spielen.
+
+-   planen und projektieren
+-   sammeln und erfassen
+-   anreichern und auswerten
+-   archivieren und sichern
+-   teilen, veröffentlichen und auffinden
+-   wiederverwenden und zitieren
+-->
+
+## Inhaltliche Abschnitte
+
+<!-- 
+
+Hier ist der Raum für die Inhalte des Skripts. Nutzen sie die vielfältigen Möglichkeiten, Inhalte mit Quarto-Markdown zu gestalten. Ersetzen Sie die Überschriften "Inhaltliche Abschnitte" und "Abschnitt-Überschrift".
+
+Viele Hinweise dazu finden sie im [Quarto-Guide](https://quarto.org/docs/guide/)
+
+-->
+
+
+## Weiterführende Quellen und Informationen {.appendix .unnumbered}
+
+<!-- Der Ort für weiterführende Quellen und Informationen. Wenn Sie Fußnoten oder Literaturverweise im Text eingefügt haben, werden die bibliographischen Angaben automatisch in weiteren Abschnitten generiert und in das Dokument eingefügt. -->
+
+## Nachnutzen {.appendix .unnumbered}
+
+Alle sind herzlich eingeladen, diesen Baustein und die zugehörige Copyleft-Lizenz zu nutzen, um ihr Wissen und Expertise in die Verbesserung und Aktualisierung einzubringen. Alle können die Inhalte erweitern oder überarbeiten, zum Beispiel um Anwendungsszenarien und Nutzungskontexte zu erweitern.
+
+Unser Wunsch ist ein lebendiges, stetig wachsendes Dokument, das sich durch die Beiträge vieler verändert - im Einklang mit eines sich wandelnden Umfelds. Wir freuen uns im Falle einer Überarbeitung über eine kurze Notiz – das ist aber selbstverständlich keine Pflicht.
+
+<!-- Verweise auf Website und Repository werden in _oer_metadata.yml global festgelegt. Wenn die OER nicht in einem git-Repository gehostet oder online bereitgestellt werden, können die folgenden zwei Zeilen gelöscht werden. -->
+
+:link: [Dieser Baustein als Website]({{< meta site-url >}}) 
+
+:link: [Quarto-Quellcode dieses Bausteins]({{< meta repo-url >}})
+
+---
+
+:link: Dieses Skript nutzt das [OER-Skript-Template von NFDI4Objects]({{< meta template-repo-url >}})
+
+## Disclaimer: Einsatz von LLM {.appendix .unnumbered}
+
+<!-- Optionale Angaben zum Einsatz von LLM bei der Erstellung oder Überarbeitung des Skripts -->
+
+-----
+
+<!-- An dieser Stelle werden von Quarto automatisch generierte Abschnitte angehängt:
+
+Bibliographie:
+Erstellt aus den in der qmd-Datei mit [@bibtex-Schlüssel] referenzierten Einträgen aus der Datei bibliographie.bib.
+Im Text nicht referenzierte Einträge aus der bibliographie.bib werden nicht zitiert.
+Der Zitierstil wird in der _oer_metadata.yml mit dem Schlüssel 'csl:' festgelegt. Im Verzeichnis /assets/csl/ sind gängige Zitierstile als csl-Datei vorhanden. Weitere sind hier zu finden: https://www.zotero.org/styles
+
+Lizenz:
+Angabe wird übernommen aus Schlüssel 'license:' in _oer_metadata.yml
+
+Urheber:innen
+Angabe wird übernommen aus der _oer_metadata.yml Schlüssel 'copyright:'
+
+Zitiervorschläge
+Mit BibTeX zitieren:
+Automatisch von Quarto aus den Metadaten insb. aus dem Schlüssel 'citation:' in der _oer_metadata.yml generiertes bibtex-Zitat.
+
+Bitte zitieren Sie diesen OER-Baustein als:
+Angabe generiert aus:
+  _autor_innen.yml
+  Schlüssel 'title:' in der qmd-Datei
+  Schlüssel 'issued' in der _oer_metadata.yml
+  Schlüssel 'doi:' in der _oer_metadata.yml / Wenn keine doi gesetzt wird der Titel mit dem Wert aus 'site-url:' in _oer_metadata.yml verlinkt.
+-->

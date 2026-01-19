@@ -1,0 +1,12 @@
+_site/
+.quarto/
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+/.luarc.json
+*.html
+_quarto_internal_scss_error.scss
+/template_files
+**/*.quarto_ipynb
+/.quarto/
