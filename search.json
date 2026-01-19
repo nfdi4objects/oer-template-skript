@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "template.html",
+    "href": "template.html",
+    "title": "OER-Skript",
+    "section": "",
+    "text": "Herzlichen Glückwunsch 🎉 – Sie haben erfolgreich ein OER-Skript aus dem Template generiert!\nÜbernehmen Sie folgende Gliederung oder ersetzen Sie diese mit Ihren eigenen Inhalten. Viele Hinweise zu dem Gliederungsvorschlag sind in den Kommentaren in dieser .qmd-Datei hinterlegt.\nWarum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in auf der Website zu ###."
+  },
+  {
+    "objectID": "template.html#einleitung",
+    "href": "template.html#einleitung",
+    "title": "OER-Skript",
+    "section": "1 Einleitung",
+    "text": "1 Einleitung\n\n\nLernziele\n\nIn diesem Skript lernen sie (Petersen u. a. 2025):\n\nKompetenz #.#\n\n\n\nVorwissen\nFür das Verständnis dieses Skripts werden vorausgesetzt:\n\nVoraussetzung\n\n\n\n\nBezug zum Forschungsdatenlebenszyklus"
+  },
+  {
+    "objectID": "template.html#inhaltliche-abschnitte",
+    "href": "template.html#inhaltliche-abschnitte",
+    "title": "OER-Skript",
+    "section": "2 Inhaltliche Abschnitte",
+    "text": "2 Inhaltliche Abschnitte"
+  },
+  {
+    "objectID": "template.html#weiterführende-quellen-und-informationen",
+    "href": "template.html#weiterführende-quellen-und-informationen",
+    "title": "OER-Skript",
+    "section": "Weiterführende Quellen und Informationen",
+    "text": "Weiterführende Quellen und Informationen"
+  },
+  {
+    "objectID": "template.html#nachnutzen",
+    "href": "template.html#nachnutzen",
+    "title": "OER-Skript",
+    "section": "Nachnutzen",
+    "text": "Nachnutzen\n\nAlle sind herzlich eingeladen, diesen Baustein und die zugehörige Copyleft-Lizenz zu nutzen, um ihr Wissen und Expertise in die Verbesserung und Aktualisierung einzubringen. Alle können die Inhalte erweitern oder überarbeiten, zum Beispiel um Anwendungsszenarien und Nutzungskontexte zu erweitern.\nUnser Wunsch ist ein lebendiges, stetig wachsendes Dokument, das sich durch die Beiträge vieler verändert - im Einklang mit eines sich wandelnden Umfelds. Wir freuen uns im Falle einer Überarbeitung über eine kurze Notiz – das ist aber selbstverständlich keine Pflicht.\n\n🔗 Dieser Baustein als Website\n🔗 Quarto-Quellcode dieses Bausteins\n\n🔗 Dieses Skript nutzt das OER-Skript-Template von NFDI4Objects"
+  },
+  {
+    "objectID": "template.html#disclaimer-einsatz-von-llm",
+    "href": "template.html#disclaimer-einsatz-von-llm",
+    "title": "OER-Skript",
+    "section": "Disclaimer: Einsatz von LLM",
+    "text": "Disclaimer: Einsatz von LLM"
+  }
+]
