@@ -29,7 +29,7 @@ Herzlichen Glückwunsch 🎉 – Sie haben erfolgreich ein OER-Skript aus dem Te
 
 Übernehmen Sie folgende Gliederung oder ersetzen Sie diese mit Ihren eigenen Inhalten. Viele Hinweise zu dem Gliederungsvorschlag sind in den Kommentaren in dieser .qmd-Datei hinterlegt.
 
-Warum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in in der [Dokumentation zu den OER-Templates von NFDI4Objekts]({{< meta template-doku-url >}}).
+Warum Sie FAIRedelte OER bereitstellen sollten, die Quarto-Publikationsumgebung dafür besonders gut geeignet ist und alle wesentlichen Informationen zur Nutzung und Anpassung der Templates und der Publikation der Lehr- und Lernmaterialien erfahren Sie in in der [Dokumentation zu den OER-Templates von NFDI4Objects]({{< meta template-doku-url >}}).
 
 
 ## Einleitung
@@ -93,13 +93,11 @@ Unser Wunsch ist ein lebendiges, stetig wachsendes Dokument, das sich durch die 
 
 ---
 
-:link: Dieses Skript nutzt das [OER-Skript-Template von NFDI4Objects]({{< meta template-repo-url >}})
+Dieses Skript nutzt das [OER-Skript-Template von NFDI4Objects](https://github.com/nfdi4objects/oer-template-skript)
 
 ## Disclaimer: Einsatz von LLM {.appendix .unnumbered}
 
 <!-- Optionale Angaben zum Einsatz von LLM bei der Erstellung oder Überarbeitung des Skripts -->
-
------
 
 <!-- An dieser Stelle werden von Quarto automatisch generierte Abschnitte angehängt:
 
