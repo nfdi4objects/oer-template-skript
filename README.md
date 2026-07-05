@@ -52,7 +52,7 @@ Das Template ist auf die Ausgabe als HTML ausgelegt. Weitere Ausgabeformate werd
 
 ## Dokumentation
 
-Die [Dokumentation der FAIR-OER-Templates](https://nfdi4objects.github.io/n4o_oer-template-dokumentation/) liefert ausführliche Hinweise für Lehrende, Praktiker:innen und interessierte Entwickler:innen.
+Die [Dokumentation der FAIR-OER-Templates](https://nfdi4objects.github.io/oer-template-dokumentation/) liefert ausführliche Hinweise für Lehrende, Praktiker:innen und interessierte Entwickler:innen.
 
 ## Lizenz
 
