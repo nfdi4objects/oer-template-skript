@@ -66,13 +66,9 @@ Für das Verständnis dieses Skripts werden vorausgesetzt:
 
 ## Inhaltliche Abschnitte
 
-<!-- 
-
 Hier ist der Raum für die Inhalte des Skripts. Nutzen sie die vielfältigen Möglichkeiten, Inhalte mit Quarto-Markdown zu gestalten. Ersetzen Sie die Überschriften "Inhaltliche Abschnitte" und "Abschnitt-Überschrift".
 
 Viele Hinweise dazu finden sie im [Quarto-Guide](https://quarto.org/docs/guide/)
-
--->
 
 
 ## Weiterführende Quellen und Informationen {.appendix .unnumbered}
@@ -96,6 +92,8 @@ Unser Wunsch ist ein lebendiges, stetig wachsendes Dokument, das sich durch die 
 Dieses Skript nutzt das [OER-Skript-Template von NFDI4Objects](https://github.com/nfdi4objects/oer-template-skript)
 
 ## Disclaimer: Einsatz von LLM {.appendix .unnumbered}
+
+Bei der Erstellung dieses Templates wurden keine KI-basierten Werkzeuge eingesetzt.
 
 <!-- Optionale Angaben zum Einsatz von LLM bei der Erstellung oder Überarbeitung des Skripts -->
 

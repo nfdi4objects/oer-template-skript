@@ -42,7 +42,7 @@ Rendern mit:
 quarto render
 ```
 
-Das Ergebnis ist eine HTML-Datei im automatisch erstellten Unter-Verzeichnis `_site`.
+Das Ergebnis ist eine HTML-Datei im automatisch erstellten Unterverzeichnis `_site`.
 
 ## Hinweise
 
@@ -52,17 +52,13 @@ Das Template ist auf die Ausgabe als HTML ausgelegt. Weitere Ausgabeformate werd
 
 ## Dokumentation
 
-Die [Dokumentation der FAIR-OER-Templates](https://nfdi4objects.github.io/n4o_oer-template-dokumentation/) liefert ausführliche Hinweise für Lehrende, Praktiker:innen und interessierte Entwickler:innen.
+Die [Dokumentation der FAIR-OER-Templates](https://nfdi4objects.github.io/oer-template-dokumentation/) liefert ausführliche Hinweise für Lehrende, Praktiker:innen und interessierte Entwickler:innen.
 
 ## Lizenz
 
-Dieses Material steht unter der Lizenz [Creative Commons Attribution 4.0 International (CC BY 4.0)]().
-
-Die Templates in diesem Repository stehen unter der Lizenz **[Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de)**.
+Das Template in diesem Repository stehen unter der Lizenz **[Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de)**.
 
 Die Lizenz ist bewusst gewählt, da die Templates keine Software im engeren Sinne sind, sondern **Struktur-, Konfigurations- und Textvorlagen** für Lehr- und Lernmaterialien.
-
-Mit der Lizenz wird die Offenheit der Templates nicht nur ermöglicht, sondern **dauerhaft gesichert**.
 
 ## Förderung 
 
